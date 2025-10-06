@@ -1,4 +1,4 @@
-# Taha Samy | Principal DevOps Architect
+# Taha Samy | Site Reliability Engineer
 ### Building Resilient Platforms for High-Velocity Engineering Teams
 
 I don't just build pipelines; I architect the digital nervous system that empowers engineering teams to deliver exceptional software—faster, safer, and at scale. My unique expertise lies at the nexus of **Industrial Automation (OT)** and **Cloud-Native Infrastructure (IT)**, allowing me to design systems that are not only robust and scalable but also deeply integrated with real-world operations.
