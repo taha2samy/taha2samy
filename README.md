@@ -59,14 +59,7 @@ My toolbox is curated to build and manage modern, cloud-native platforms.
 
 ---
 
-### 🔬 Current R&D Focus
 
-I am always pushing the boundaries of what's possible. My current areas of deep research include:
--   **eBPF for Kernel-Level Observability & Networking:** Leveraging tools like Cilium to achieve high-performance, secure networking in Kubernetes.
--   **Platform Engineering with Backstage:** Building truly effective internal developer portals.
--   **FinOps:** Integrating cloud cost management and optimization directly into the DevOps lifecycle.
-
----
 
 ### 💬 Let's Build the Future
 
